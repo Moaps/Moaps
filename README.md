@@ -1,20 +1,82 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2djMmZud2x1OG9nZm90Z2FjcWgza293cGR2b2xpeWVhZTJjYzV5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="100"/>
-</div>
+<!--suppress HtmlDeprecatedAttribute -->
+<img align='left' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ1MnphcWNidHFjOWo5ZHhpeW9ydDAxYWpvdW5naG42ZmtyaW0zaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v177Mq08vTP53QIptK/source.gif" width="60" alt="giphy"> 
 
-### Hello World! 👋
+# Hello World!
+<br>
+Welcome,  
 
-<!--
-**Moaps/Moaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+؜᠎
 
-Here are some ideas to get you started:
+I'm Clariana, a soon-to-be computer engineering bachelor! Right now,  I'm working as a software developer intern, sharpening my skills along the way. 👾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time, you can often find me tackling Python and C exercises on platforms like Beecrowd, alongside other parallel projects. Occasionally, I'll be adding repositories related to activities from my college coursework. 
+  
+My aim is to continue growing and advancing in the tech industry, so feel free to join me on this journey! If you have any questions or want to discuss anything related to programming, don't hesitate to reach out. 🤗   
+
+؜᠎
+
+
+<a href="https://www.linkedin.com/in/clariananogueira/">
+  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/Moaps/Moaps/2104c936f828a89a452efa30fbb476e87c2151dd/LinkedinLogo.svg" />
+</a>
+<a href="https://judge.beecrowd.com/pt/profile/519988">
+  <img align="left" alt="Beecrowd" width="30px" src="https://raw.githubusercontent.com/Moaps/Moaps/2104c936f828a89a452efa30fbb476e87c2151dd/BeecrowdLogo.svg" />
+</a>
+<a href="mailto:clariana.nscosta@gmail.com">
+  <img align="left" alt="GMail" width="30px" src="https://raw.githubusercontent.com/Moaps/Moaps/2104c936f828a89a452efa30fbb476e87c2151dd/GmailLogo.svg" />
+</a>
+<a href="https://www.instagram.com/_moaps/">
+  <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/Moaps/Moaps/2104c936f828a89a452efa30fbb476e87c2151dd/InstagramLogo.svg" />
+</a>
+</br>
+
+؜᠎
+
+#
+
+؜᠎
+
+### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Learning
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Database
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Operating System
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
+### Design Tools
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### Hosting
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+
+### Other
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+؜᠎
+
+#
+
+؜᠎
+
+![Moaps GitHub stats](https://github-readme-stats.vercel.app/api?username=Moaps&show_icons=true&theme=nord) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moaps&theme=nord)](https://git.io/streak-stats)
