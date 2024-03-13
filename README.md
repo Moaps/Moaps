@@ -91,5 +91,5 @@ My aim is to continue growing and advancing in the tech industry, so feel free t
 
 ؜᠎
 
-<img src="https://github-readme-stats.vercel.app/api?username=Moaps&show_icons=true&theme=nord" align="left" width="380" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moaps&theme=nord" align="left" width="405" >
+<img src="https://github-readme-stats.vercel.app/api?username=Moaps&show_icons=true&theme=nord" align="left" width="350" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moaps&theme=nord" align="left" width="375" >
