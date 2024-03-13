@@ -17,16 +17,27 @@ My aim is to continue growing and advancing in the tech industry, so feel free t
 
 
 <a href="https://www.linkedin.com/in/clariananogueira/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/Moaps/Moaps/2104c936f828a89a452efa30fbb476e87c2151dd/LinkedinLogo.svg" />
+  <img align="left" alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/Moaps/Moaps/587e867792f24868430b6c49e87292609542de69/images/LinkedinLogo2.svg" />
 </a>
+
 <a href="https://judge.beecrowd.com/pt/profile/519988">
-  <img align="left" alt="Beecrowd" width="30px" src="https://raw.githubusercontent.com/Moaps/Moaps/2104c936f828a89a452efa30fbb476e87c2151dd/BeecrowdLogo.svg" />
+  <img align="left" alt="Beecrowd" width="35px" src="https://raw.githubusercontent.com/Moaps/Moaps/587e867792f24868430b6c49e87292609542de69/images/BeecrowdLogo2.svg" />
 </a>
+
 <a href="mailto:clariana.nscosta@gmail.com">
-  <img align="left" alt="GMail" width="30px" src="https://raw.githubusercontent.com/Moaps/Moaps/2104c936f828a89a452efa30fbb476e87c2151dd/GmailLogo.svg" />
+  <img align="left" alt="GMail" width="35px" src="https://raw.githubusercontent.com/Moaps/Moaps/587e867792f24868430b6c49e87292609542de69/images/GmailLogo2.svg" />
 </a>
+
 <a href="https://www.instagram.com/_moaps/">
-  <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/Moaps/Moaps/2104c936f828a89a452efa30fbb476e87c2151dd/InstagramLogo.svg" />
+  <img align="left" alt="Instagram" width="35px" src="https://raw.githubusercontent.com/Moaps/Moaps/587e867792f24868430b6c49e87292609542de69/images/InstagramLogo2.svg" />
+</a>
+
+<a href="https://open.spotify.com/user/9x8uzndecolrc0m71iw86gx88">
+  <img align="left" alt="Spotify" width="35px" src="https://raw.githubusercontent.com/Moaps/Moaps/587e867792f24868430b6c49e87292609542de69/images/SpotifyLogo2.svg" />
+</a>
+
+<a href="https://steamcommunity.com/id/moaps/">
+  <img align="left" alt="Steam" width="35px" src="https://raw.githubusercontent.com/Moaps/Moaps/587e867792f24868430b6c49e87292609542de69/images/SteamLogo2.svg" />
 </a>
 </br>
 
